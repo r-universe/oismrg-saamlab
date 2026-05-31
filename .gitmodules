@@ -5,3 +5,6 @@
 [submodule "KRONX"]
 	path = KRONX
 	url = https://github.com/cran/KRONX
+[submodule "kronxNBC"]
+	path = kronxNBC
+	url = https://github.com/cran/kronxNBC
